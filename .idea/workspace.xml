@@ -5,16 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3543ed5-3112-4810-8f75-3ca8665a28c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webDJprogect.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroCoder/myapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/static/main/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/static/main/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/layoute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/main/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -42,12 +44,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.main.executor": "Run",
     "Python.views.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\PycharmProjects\webDJprogect\ZeroCoder\main\static\main\img" />
+      <recent name="C:\Users\1\PycharmProjects\webDJprogect\ZeroCoder\main\static\main\css" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
