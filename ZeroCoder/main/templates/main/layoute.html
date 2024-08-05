@@ -24,7 +24,13 @@
                         <a class="nav-link active" href="{% url 'home' %}">Главная</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="{% url 'page2' %}">Второстепенная</a>
+                        <a class="nav-link" href="{% url 'page2' %}">Вторая страница</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url 'page3' %}">Третья страница</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url 'page4' %}">Четвертая страница</a>
                     </li>
                 </ul>
             </aside>
@@ -33,6 +39,9 @@
 
                 {% endblock %}
             </main>
+
+            {% include 'main/footer.html' %}
+
         </div>
     </div>
 
