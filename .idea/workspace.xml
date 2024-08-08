@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3543ed5-3112-4810-8f75-3ca8665a28c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/news/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/news/templates/news/add_new_post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroCoder/news/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroCoder/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/main/templates/main/layoute.html" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/layoute.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZeroCoder/news/templates/news/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/templates/news/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -48,6 +51,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1\PycharmProjects\webDJprogect\ZeroCoder\news" />
       <recent name="C:\Users\1\PycharmProjects\webDJprogect\ZeroCoder\main\static\main\img" />
       <recent name="C:\Users\1\PycharmProjects\webDJprogect\ZeroCoder\main\static\main\css" />
     </key>
